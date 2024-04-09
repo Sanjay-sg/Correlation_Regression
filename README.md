@@ -1,7 +1,5 @@
 # EXP NO:3
 
-# DATE:20.09.23
-
 # Correlation and regression for data analysis
 # Aim : 
 
