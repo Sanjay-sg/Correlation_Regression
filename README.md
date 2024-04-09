@@ -1,4 +1,3 @@
-# EXP NO:3
 
 # Correlation and regression for data analysis
 # Aim : 
